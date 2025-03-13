@@ -1,1 +1,51 @@
+body{
+    background-color: rgba(225, 222, 222, 0.615);
+
+}
+.divColorEncabezado{
+    background-color: black;
+    width: 100%;
+}
+
+.divNoticias{
+    background-color:rgba(225, 222, 222, 0.615);
+    width: 100%;
+    color: black;
+}
+
+.divContactos{
+    background-color:rgba(225, 222, 222, 0.615);
+    width: 100%;
+    color: black;
+    text-align: center;
+
+}
+
+.imgEncabezado{
+    width: 4%;
+    height: 2%;
     
+}
+
+.imgPrincipal{
+    width: 100%;
+}
+
+.divServicio{
+    background-color: rgba(225, 222, 222, 0.615);
+    color : black;
+    width: 100%;
+    font-size: larger;
+}
+.divRGBA{
+    background-color: rgba(222, 7, 7, 0.97);
+    width: 100%;
+    color: rgb(185, 182, 177);
+}
+
+.divRedes{
+    background-color: black;
+    text-align: center;
+    width: 100%;
+    color: white;
+}
